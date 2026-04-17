@@ -1,8 +1,8 @@
 # Java Security Issues
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/shawnzhao170627/java-security-issues-.svg)](https://github.com/shawnzhao170627/java-security-issues-/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/shawnzhao170627/java-security-issues-.svg)](https://github.com/shawnzhao170627/java-security-issues-/issues)
+[![GitHub stars](https://img.shields.io/github/stars/shawnzhao170627/java-security-issues.svg)](https://github.com/shawnzhao170627/java-security-issues/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/shawnzhao170627/java-security-issues.svg)](https://github.com/shawnzhao170627/java-security-issues/issues)
 [![Issues JSON](https://img.shields.io/badge/data-issues.json-blue)](data/issues.json)
 [![llms.txt](https://img.shields.io/badge/AI-llms.txt-green)](llms.txt)
 
@@ -188,7 +188,7 @@ codeql database analyze ./db docs/tools/codeql-queries/
 
 ```bash
 # 克隆仓库
-git clone https://github.com/shawnzhao170627/java-security-issues-.git
+git clone https://github.com/shawnzhao170627/java-security-issues.git
 
 # 引用结构化数据
 import issues from './java-security-issues/data/issues.json';
@@ -198,7 +198,7 @@ import issues from './java-security-issues/data/issues.json';
 
 我们欢迎所有形式的贡献！
 
-- 报告问题或提出建议：[创建 Issue](https://github.com/shawnzhao170627/java-security-issues-/issues)
+- 报告问题或提出建议：[创建 Issue](https://github.com/shawnzhao170627/java-security-issues/issues)
 - 贡献内容：请阅读 [贡献指南](contributing/how-to-contribute.md)
 - 贡献代码示例：请阅读 [代码示例指南](contributing/code-examples.md)
 
@@ -206,8 +206,8 @@ import issues from './java-security-issues/data/issues.json';
 
 感谢所有贡献者的付出！
 
-<a href="https://github.com/shawnzhao170627/java-security-issues-/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shawnzhao170627/java-security-issues-" />
+<a href="https://github.com/shawnzhao170627/java-security-issues/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shawnzhao170627/java-security-issues" />
 </a>
 
 ## 许可证
@@ -230,8 +230,8 @@ import issues from './java-security-issues/data/issues.json';
 
 ## 联系方式
 
-- 提交 Issue：[GitHub Issues](https://github.com/shawnzhao170627/java-security-issues-/issues)
-- 讨论：[GitHub Discussions](https://github.com/shawnzhao170627/java-security-issues-/discussions)
+- 提交 Issue：[GitHub Issues](https://github.com/shawnzhao170627/java-security-issues/issues)
+- 讨论：[GitHub Discussions](https://github.com/shawnzhao170627/java-security-issues/discussions)
 
 ---
 
