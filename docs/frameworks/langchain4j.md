@@ -1,5 +1,5 @@
 ---
-id: LANGCHAIN4J
+id: LANGCHAIN4J-SECURITY
 name: LangChain4j 安全
 severity: high
 cwe: ["CWE-94"]

@@ -1831,5 +1831,50 @@
       "https://docs.langchain4j.dev/",
       "https://owasp.org/www-project-top-10-for-large-language-model-applications/"
     ]
+  },
+  {
+    "id": "SPRING-FRAMEWORK",
+    "name": "Spring 框架安全",
+    "name_en": "Spring Framework Security",
+    "category": "frameworks",
+    "owasp": "A05:2025",
+    "cwe": [
+      "CWE-94",
+      "CWE-502",
+      "CWE-16"
+    ],
+    "severity": "critical",
+    "description": "Spring 框架历史漏洞与常见安全问题，包括 SpEL 注入、RCE 等",
+    "description_en": "Spring Framework historical vulnerabilities and common security issues including SpEL injection, RCE",
+    "java_affected": [
+      "Spring Framework",
+      "Spring Security",
+      "Spring Cloud"
+    ],
+    "doc_path": "docs/frameworks/spring.md",
+    "semgrep_rule": "docs/tools/semgrep-rules/frameworks.yml",
+    "detection_methods": [
+      "依赖扫描",
+      "静态分析",
+      "配置审计"
+    ],
+    "mitigation": [
+      "升级到安全版本",
+      "禁用 Actuator 端点",
+      "使用 SimpleEvaluationContext",
+      "配置安全响应头"
+    ],
+    "tags": [
+      "frameworks",
+      "spring",
+      "spel",
+      "rce",
+      "spring4shell"
+    ],
+    "last_updated": "2026-04-18",
+    "references": [
+      "https://spring.io/security",
+      "https://docs.spring.io/spring-security/reference/"
+    ]
   }
 ]

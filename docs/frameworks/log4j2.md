@@ -1,5 +1,5 @@
 ---
-id: LOG4J2
+id: LOG4J-RCE
 name: Log4j2 安全
 severity: critical
 cwe: ["CWE-502", "CWE-917"]

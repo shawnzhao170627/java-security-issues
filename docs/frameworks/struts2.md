@@ -1,5 +1,5 @@
 ---
-id: STRUTS2
+id: STRUTS2-RCE
 name: Struts2 安全
 severity: critical
 cwe: ["CWE-94", "CWE-917"]

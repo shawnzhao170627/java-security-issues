@@ -1,5 +1,5 @@
 ---
-id: SPRING-AI
+id: SPRING-AI-SECURITY
 name: Spring AI 安全
 severity: high
 cwe: ["CWE-94"]

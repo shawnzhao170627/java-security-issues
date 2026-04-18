@@ -1,5 +1,5 @@
 ---
-id: FASTJSON
+id: FASTJSON-RCE
 name: Fastjson 安全
 severity: critical
 cwe: ["CWE-502"]

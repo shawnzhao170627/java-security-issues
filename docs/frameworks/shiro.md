@@ -1,5 +1,5 @@
 ---
-id: SHIRO
+id: SHIRO-DESERIALIZATION
 name: Shiro 安全
 severity: critical
 cwe: ["CWE-502"]
